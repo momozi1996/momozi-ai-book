@@ -78,6 +78,8 @@
 | 新青年.Skill | 蒸馏毛选全文，形成现实分析与决策技能 | https://github.com/SamadhiFire/xinqingnian-skill |
 | 郭德纲.skill | 语言结构、幽默表达、人情世故判断 | https://github.com/ByteRax/guodegang-skills |
 | 峰哥亡命天涯 Skill | 现实主义、止损思维、黑色幽默表达 |https://github.com/rottenpen/fengge-wangmingtianya-perspective|
+| 宝玉 baoyu-skills | 宝玉分享的 Claude Code 技能集，提升日常工作效率。 | https://github.com/JimLiu/baoyu-skills/blob/main/README.zh.md |
+
 
 ---
 
