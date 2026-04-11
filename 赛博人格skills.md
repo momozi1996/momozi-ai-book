@@ -14,8 +14,6 @@
 | 永生.skill | 多维人格蒸馏，实现数字永生 | https://github.com/agenmod/immortal-skill |
 | midas.skill | 财富模型蒸馏，挖掘个人财富信号 | https://github.com/realteamprinz/midas-skill |
 | 数字生命开源计划 | 个人知识库 → 数字分身框架 | https://github.com/weixr18/my-digital-life |
-| VibePortrait | 从对话提炼开发者风格与技术偏好 | - |
-| 户晨风.skill | 消费现实主义视角，职业/城市分析 | - |
 
 ---
 
@@ -31,6 +29,8 @@
 | 大学老师.skill | 提炼教学风格、评分逻辑、复习重点与出题偏好 | https://github.com/CommitHu502Craft/professor-skill |
 | 导师.skill | 学术导师指导风格、研究偏好与评审逻辑 |https://github.com/ybq22/supervisor|
 | 师兄.skill | 课题组师兄技术风格、解题思路与指导方式 | https://github.com/zhanghaichao520/senpai-skill |
+| 户晨风.skill | 消费现实主义视角，职业/城市分析 | https://github.com/Janlaywss/hu-chenfeng-skill |
+| VibePortrait | 从对话提炼开发者风格与技术偏好 | https://github.com/dadwadw233/VibePortrait |
 
 ---
 
