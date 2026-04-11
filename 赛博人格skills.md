@@ -117,8 +117,7 @@
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
 | 永雏塔菲.skill | 一键成为永雏塔菲， 学会包括经典的喵喵句尾、专注 RP（RolePlay）的 taffy 自称等等细节；像塔菲一样聊天、发微博，给视频起标题，给动态写文案。同时，得利于对永雏塔菲用词习惯的蒸馏，我们显著提升了永雏塔菲切片视频中的语音识别正确率。 | https://github.com/ly-xxx/ace-taffy-skill |
-|  Waifu-Skill | Waifu-Skill 是一个"反向异世界"系统——不是你穿越到二次元，而是把二次元角色召唤到现实。
-能够从小说、设定集等原材料中提取虚拟角色的人格特征和世界观设定，生成可对话的AI Skill。| https://github.com/miunasu/waifu-skill |
+|  Waifu-Skill | Waifu-Skill 是一个"反向异世界"系统——不是你穿越到二次元，而是把二次元角色召唤到现实。能够从小说、设定集等原材料中提取虚拟角色的人格特征和世界观设定，生成可对话的AI Skill。| https://github.com/miunasu/waifu-skill |
 | lolimom.skill | 你喜欢的二次元软萌妈妈气质，蒸馏成一个会哄你、会照顾你、会记住你习惯的 AI Skill。 |https://github.com/yuuiwa1551/lolimom.skill|
 | vtb.skill · 虚拟主播.skill |把喜欢过、追过、想认真留下来的虚拟主播，整理成一个能安装、能维护、还能继续补料的 .skill | https://github.com/ly-xxx/vtb.skill |
 | 陈泽.skill |基于斗鱼/抖音主播 陈泽 真实语料蒸馏，涵盖身份认知、价值观、表达风格、幽默模式、互动规则五大维度。| https://github.com/Xiaooooo434680/chenze-skill |
