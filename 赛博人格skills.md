@@ -96,14 +96,16 @@
 
 ---
 
-## 五、玄学 & 术数系列
+## 五、传统 & 玄学 & 术数系列
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
+| 华夏老祖宗.skill | 华夏老祖宗智慧：老祖宗指出你的认知偏差，直接给融合方案，还带口音——34个框架，每个都有独特的分析方法和专属口吻：| https://github.com/liangjfblue/huaxia-wisdom |
 | 赛博算命.skill | 八字排盘、四柱命理、运势分析 | https://github.com/jinchenma94/bazi-skill |
 | 月老·姻缘测算.skill | 术数合婚、桃花分析、姻缘测算 | https://github.com/Ming-H/yinyuan-skills |
 | 奇门遁甲、紫微斗数.skill | 低幻觉排盘，传统术数 AI 分析 | https://github.com/FANzR-arch/Numerologist_skills |
 | 大师.skill | 汉传佛教祖师大德风格讲解与对话 | https://github.com/xr843/Master-skill |
 | 金刚经.skill | 基于金刚经的讲解、对话与解读框架 | https://github.com/dull-bird/diamond-sutra-skill |
+
 
 ---
 
