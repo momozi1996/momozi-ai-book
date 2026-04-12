@@ -147,7 +147,12 @@ npx skills add alchaincyf/nuwa-skill
 
 ---
 
+## 七、测试系列
+| Skill 名称 | 核心功能 | 项目地址 |
+|🧠 SBTI 赛博人格测试 Skill| 互联网最火的沙雕人格测试，现在可以在你的 AI agent 里玩了。30 道题，15 个维度，27 种人格 — 测自己，或者测你的龙虾 🦞 | https://github.com/nexu-io/sbti-skill |
 
+
+---
 
 ### 说明
 - 无地址项为原 awesome 仓库收录但未附外链，可 GitHub 直接搜 Skill 名称查找
