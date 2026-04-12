@@ -32,14 +32,10 @@
 ---
 
 <p align="center">
-### 其他语言 /Other Languages:
-[English] · [日本語] · [한국어] · [Español]
-</p>
----
-
-
-<p align="center">
-<a href="./README_EN.md">English</a>
+其他语言/Other Languages:
+<a href="./README_EN.md">English</a> ·
+<a href="./README_JP.md">日本語</a> ·
+<a href="./README_KO.md">한국어</a> ·
 </p>
 
 
