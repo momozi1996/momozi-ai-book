@@ -8,8 +8,9 @@
 4. **情感陪伴**
 5. **玄学术数**
 6. **二次元角色**
-7. **SBTI人格测试** 
-<img width="2752" height="1536" alt="Gemini_Generated_Image_gaz0fggaz0fggaz0" src="https://github.com/user-attachments/assets/f85b7f11-e719-43aa-a02a-0ee8e86559cd" />
+7. **SBTI人格测试**
+
+<img width="1000" height="558" alt="Gemini_Generated_Image_gaz0fggaz0fggaz0_副本" src="https://github.com/user-attachments/assets/a5ecb800-3123-4ff2-bd24-f12b770d5ada" />
 
 ## 文档介绍
 本文档整理并收录当前互联网主流 **Persona Distill Skills**，所有项目均来自 GitHub 开源社区，按场景清晰分类、附带完整项目地址，方便快速查找、安装与使用。
