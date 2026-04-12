@@ -14,16 +14,15 @@
 <a href="https://www.stepfun.ai/"><img src="https://img.shields.io/badge/StepClaw-Ready-green.svg" alt="StepClaw Ready"></a>
 </p>
 
-
 <p align="center">
-用 女娲skill 蒸馏顶级作家的灵魂，让刘慈欣、莫言、张爱玲、余华、李碧华、琼瑶、当年明月都给你当笔杆子。
+用 女娲skill 蒸馏顶级作家的灵魂，让刘慈欣、莫言、张爱玲、余华、李碧华、琼瑶、席慕容、当年明月都给你当笔杆子。
 </p>
 
 <p align="center">
 <a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
 ✨ 那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
 ✨ 我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
- ❤️ star+fork  ❤️ 支持一下这个仓库吧～。 
+ ❤️ star+fork  ❤️ 支持一下这个仓库吧～。 你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
 <p align="center">
@@ -33,8 +32,11 @@
 ---
 
 <p align="center">
-### 其他语言 / Other Languages:
+### 其他语言 /Other Languages:
+[English] · [日本語] · [한국어] · [Español]
 </p>
+---
+
 
 <p align="center">
 <a href="./README_EN.md">English</a>
@@ -51,7 +53,7 @@
 
 ## 简介
 
-这个仓库收录了 7+位华语作家的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
+这个仓库收录了 8+ 位华语作家的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
 每个Skill都包含了作家的核心心智模型、表达DNA、决策启发式和经典作品分析。
 
 🧪使用场景： 
