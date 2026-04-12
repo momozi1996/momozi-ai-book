@@ -74,7 +74,7 @@
 |    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。 | [ximurong-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「像席慕容那样写」「乡愁」「开花的树」|
 |    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
 |    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [libihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
-|    🌟**三毛**  |三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。擅长：流浪文学、真挚散文、爱情叙事、自由精神、感性表达。| [sanmao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/sanmao-skill/SKILL.md)|  触发词：「三毛视角」「像三毛那样写」「撒哈拉」「前世乡愁」「每想你一次」。 |
+|    🌟**三毛**  |爱情小说 |三毛流浪文学思维——真挚感性、沙漠爱情、自由灵魂、生死相随。擅长：流浪文学、真挚散文、爱情叙事、自由精神、感性表达。| [sanmao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/sanmao-skill/SKILL.md)|  触发词：「三毛视角」「像三毛那样写」「撒哈拉」「前世乡愁」「每想你一次」。 |
 
 
 > 持续更新中： 林清玄 / 冰心/ 金庸...
