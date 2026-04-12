@@ -1,142 +1,359 @@
-# momozi-ai-learning-book
-# 🤖 momozi的AI学习书
-![AI学习banner](https://picsum.photos/id/180/1200/300)
+# 🥰 小说家& 作家 Skill库 · 赛博永生 🥰
 
-> 🌱 持续生长的个人AI知识库 | 记录从入门到深耕的每一步  
-> 收录AI产品、开源项目、技术笔记、实战经验，打造专属学习手册 ✨
 
----
+<h1 align="center"> 作家小说家.skill</h1>
 
-## 📋 快速导航
-- [🔥 AI工具库](sslocal://flow/file_open?url=%23-ai%E5%B7%A5%E5%85%B7%E5%BA%93&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [🌟 开源项目精选](sslocal://flow/file_open?url=%23-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%B2%BE%E9%80%89&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [📖 技术笔记专区](sslocal://flow/file_open?url=%23-%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0%E4%B8%93%E5%8C%BA&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [💡 优质学习资源](sslocal://flow/file_open?url=%23-%E4%BC%98%E8%B4%A8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [🚀 实战项目日志](sslocal://flow/file_open?url=%23-%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E6%97%A5%E5%BF%97&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [📌 待学清单](sslocal://flow/file_open?url=%23-%E5%BE%85%E5%AD%A6%E6%B8%85%E5%8D%95&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [📊 学习进度追踪](sslocal://flow/file_open?url=%23-%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6%E8%BF%BD%E8%B8%AA&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [🎯 学习技巧总结](sslocal://flow/file_open?url=%23-%E5%AD%A6%E4%B9%A0%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+<p align="center">
+「✨ 那何必只蒸馏同事？？蒸馏你喜欢的作家吧！」
+「蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
+</p>
 
----
+<p align="center">
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT"></a>
+<a href="https://github.com/alchaincyf/nuwa-skill"><img src="https://img.shields.io/badge/nuwa--skill-Compatible-purple.svg" alt="nuwa-skill Compatible"></a>
+<a href="https://www.stepfun.ai/"><img src="https://img.shields.io/badge/StepClaw-Ready-green.svg" alt="StepClaw Ready"></a>
+</p>
 
-## 🔥 AI工具库
-> 提升学习/开发效率的实用AI工具，按场景分类
+<p align="center">
+用 女娲skill 蒸馏顶级作家的灵魂，让刘慈欣、莫言、张爱玲、余华、李碧华、琼瑶、席慕容、当年明月都给你当笔杆子。
+</p>
 
-### 开发辅助
-- [工具名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 一句话介绍
+<p align="center">
+<a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
+✨ 那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
+✨ 我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
+ ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
+</p>
 
-### 内容创作
-- [工具名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 一句话介绍
-
-### 学习辅助
-- [工具名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 一句话介绍
+<p align="center">
+<a href="#效果示例">看效果</a> · <a href="#快速开始">安装</a> · <a href="#作家skill目录">作家列表</a> · <a href="#工作原理">工作原理</a>
+</p>
 
 ---
 
-## 🌟 开源项目精选
-> 值得深入研究的AI开源项目，附学习重点
+<p align="center">
+其他语言/Other Languages:
+<a href="./README_EN.md">English</a> ·
+<a href="./README_JP.md">日本語</a> ·
+<a href="./README_KO.md">한국어</a> ·
+</p>
 
-### 大模型核心框架
-- [项目名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 功能介绍 | 学习重点：xxx
 
-### 开发工具包
-- [项目名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 功能介绍 | 学习重点：xxx
+✨ 这是什么？
+这不是普通的文集摘抄，也不是风格模仿模板。我们用「女娲蒸馏」技术，拆解作家的：
+叙事 DNA、语感与节奏、人物塑造逻辑、世界观偏好、意象与象征体系、对话与情绪表达方式
 
-### 实战案例项目
-- [项目名](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 功能介绍 | 学习重点：xxx
+基于 nuwa-skill 打造的作家风格复刻库，把顶级小说家的叙事节奏、语感、视角与世界观，炼成可直接调用的写作 Skill。
+致谢
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 
----
+## 简介
 
-## 📖 技术笔记专区
-> 核心知识点总结，按学习阶段分类
+这个仓库收录了 8+ 位华语作家的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
+每个Skill都包含了作家的核心心智模型、表达DNA、决策启发式和经典作品分析。
 
-### 基础入门
-- [笔记标题](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 简短说明
-
-### 进阶技术
-- [笔记标题](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 简短说明
-
-### 部署优化
-- [笔记标题](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 简短说明
-
----
-
-## 💡 优质学习资源
-> 经过筛选的高质量教程、博客、课程
-
-### 官方文档
-- [文档名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 特点/适用场景
-
-### 视频课程
-- [课程名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 特点/适用人群
-
-### 技术博客
-- [博客名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) - 特点/覆盖领域
+🧪使用场景： 
+你可以用这些Skill来：
+- 模仿特定作家的写作风格
+- 获取创作灵感和构思框架
+- 学习不同作家的叙事技巧
+- 构建自己的写作Agent
 
 ---
 
-## 🚀 实战项目日志
-> 记录自己动手的AI项目，包含过程、问题与收获
+## 作家Skill目录
 
-### 已完成项目
-1. [项目名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-   - 技术栈：xxx
-   - 实现功能：xxx
-   - 遇到的问题：xxx→解决方案：xxx
-   - 收获：xxx
+| 　　　作家　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
+|-----------|------|----------|-----------|-----------|
+|   🌟**刘慈欣**   | 科幻小说 | 硬科幻、宏大叙事、科学概念→社会冲突、黑暗森林法则、降维打击。擅长：硬科幻设定、宏大叙事结构、科学概念具象化、文明冲突。 | [liucixin-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/liucixin-skill/SKILL.md) |触发词：「刘慈欣视角」「像刘慈欣那样写」「黑暗森林」「降维打击」。|
+|   🌟**余华**     | 小说 | 苦难叙事、冷峻温情、民间视角、时间重构。触发词：「余华视角」「像余华那样写」。擅长：用朴素语言写沉重主题、第一人称自述、重复叙事结构、苦难中的温情。 | [yuhua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/yuhua-skill/SKILL.md) | 触发词：「余华视角」「像余华那样写」。擅长：用朴素语言写沉重主题、第一人称自述、重复叙事结构、苦难中的温情。|
+|    🌟**莫言**    | 小说 | 魔幻现实、高密东北乡、民间叙事、感官爆炸、多重视角。擅长：动物视角叙事、通感修辞、民间故事重构、历史与当代交织。 | [moyan-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/moyan-skill/SKILL.md) |触发词：「莫言视角」「像莫言那样写」「高密东北乡」「幻觉现实主义」。|
+|    🌟**张爱玲**  | 小说 | 苍凉美学、参差对照、物质细节、心理现实主义、沪港双城。擅长：都市男女情感、物质细节描写、心理刻画、华丽与苍凉的交织。 | [zhangailing-skill](./zhangailing-perspective/) |触发词：「张爱玲视角」「像张爱玲那样写」「苍凉美学」「参差对照」。|
+|    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。 | [ximurong-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「像席慕容那样写」「乡愁」「开花的树」|
+|    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
+|    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [libihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
+|    🌟**当年明月** |历史小说|当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。 擅长：历史通俗写作、幽默叙事、人物心理分析、权力斗争描写、现代语言解构历史。|[dangnianmingyue-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/dangnianmingyue-skill/SKILL.md)|触发词：「当年明月视角」「像当年明月那样写」「明朝那些事儿」「历史通俗化」。|
 
-### 进行中项目
-2. [项目名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-   - 技术栈：xxx
-   - 目标功能：xxx
-   - 当前进度：xxx
+> 持续更新中：南派三叔 / 天下霸唱 / 唐家三少  / 天蚕土豆 / 墨香铜臭
 
-### 计划中项目
-3. [项目名称](sslocal://flow/file_open?url=%E9%93%BE%E6%8E%A5%2F%E6%9C%AC%E5%9C%B0%E8%B7%AF%E5%BE%84&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-   - 技术栈：xxx
-   - 目标功能：xxx
+---
+## 🚀 快速开始
+
+🦈 创始人，给你三种一键安装方式：
+
+### 🚀 快速开始：一键安装所有Skill
+
+##### 方式一：使用安装脚本（推荐）
+
+```bash
+curl -sL https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
+```
+##### 方式二：手动逐个安装
+```bash
+# 安装刘慈欣
+npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+# 安装余华
+npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
+
+# ... 其他作家
+```
+
+##### 方式三：批量安装
+```bash
+git clone https://github.com/momozi1996/momozi-ai-book.git
+cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
+```
+
+---
+### 🦞 OpenClaw 原生支持从GitHub直接安装
+如果OpenClaw支持从GitHub直接安装，可以用：
+
+```bash
+# 安装整个Novelists目录
+npx skills add momozi1996/momozi-ai-book/Novelists
+# 或安装单个
+npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+```
+
+## 🤔指南：我是怎么蒸馏作家Skill的？
+
+### 1. 安装女娲Skill
+
+```bash
+npx skills add alchaincyf/nuwa-skill
+```
+
+致谢
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
+
+### 2. 利用女娲Skill蒸馏人物
+
+```bash
+# 示例：蒸馏莫言
+非常好，用nuwa-skill蒸馏另一个作家-莫言，
+我希望你能先查他的所有资料和书写风格尤其是小说的书写，
+构造一个最像他的。
+```
+
+### 3. 等待OpenClaw完成任务 (本人使用：阶跃 AI・StepClaw)
+
+系统会自动启动6个并行Agent进行多维度调研：
+- 1. 著作与创作理念
+- 2. 长对话与访谈
+- 3. 表达DNA与风格
+- 4. 他者及评论界视角与批评
+- 5. 创作决策与转折点
+- 6. 人生时间线
+
+### 4. 保存到本地
+
+```bash
+# 保存文件夹到下载目录
+把这个莫言Skill相关的文件，做成文件夹
+保存到我的电脑本地的下载的目录里吧。
+（检查所有的文件不要出错，也不要为空）
+```
 
 ---
 
-## 📌 待学清单
-> 按优先级排序，完成后勾选✅
 
-### 高优先级
-- [ ] 待学内容1
-- [ ] 待学内容2
+## 效果示例
 
-### 中优先级
-- [ ] 待学内容1
-- [ ] 待学内容2
+### 1. 刘慈欣
 
-### 低优先级
-- [ ] 待学内容1
-- [ ] 待学内容2
+**用户：**
+```
+写一个关于外星文明接触的故事开头
+```
 
----
-
-## 📊 学习进度追踪
-| 学习方向         | 开始时间 | 当前进度 | 目标节点   | 完成标志               |
-|------------------|----------|----------|------------|------------------------|
-| 方向1（如：大模型基础） | yyyy-mm-dd | xx%      | yyyy-mm-dd | 具体完成标准（如：掌握xxx） |
-| 方向2（如：RAG技术）   | yyyy-mm-dd | xx%      | yyyy-mm-dd | 具体完成标准（如：完成xxx项目） |
-| 方向3（如：模型微调）   | yyyy-mm-dd | xx%      | yyyy-mm-dd | 具体完成标准（如：独立微调xxx模型） |
+**Agent（刘慈欣视角）：**
+> 当第一束来自半人马座α的信号抵达地球时，没有人意识到这是文明的丧钟。那串看似随机的脉冲，实则是经过精密计算的坐标——不是指向地球，而是指向太阳系边缘的某个点。在那里，一艘已经航行了四百年的探测器正静静等待，它的任务只有一个：确认这个蓝色星球上的智慧生命，是否值得被"保存"。
+>
+> 联合国紧急成立了"接触应对小组"，但物理学家们很快发现了一个令人绝望的事实：信号中蕴含的数学规律，暗示着发送者已经掌握了维度折叠技术。这意味着，他们可以在不跨越空间距离的情况下，将地球"折叠"进一个量子态的囚笼。
+>
+> 黑暗森林法则，在这一刻不再是假说。
 
 ---
 
-## 🎯 学习技巧总结
-> 自己摸索的高效学习方法，持续更新
+### 2. 余华
 
-1. 技巧1：xxx
-2. 技巧2：xxx
-3. 技巧3：xxx
+**用户：**
+```
+写一个关于失去的故事
+```
+
+**Agent（余华视角）：**
+> 我爹死的时候，我正在地里割麦子。那年我七岁，麦子黄得像金子，我爹说割完这片地，就带我去镇上吃馄饨。
+>
+> 我没有吃到馄饨。
+>
+> 我爹是笑着死的。他躺在麦地里，脸上还带着割麦子的笑容，好像只是累了，想躺一会儿。我喊他，他不答应。我推他，他还是不答应。麦芒扎在我手上，不疼，但我哭了。
+>
+> 后来我才知道，我爹是累死的。他连着割了三天麦子，想赶在下雨前收完。他死的时候，手里还攥着一把麦子。
+>
+> 那把麦子，我留了四十年。
 
 ---
 
-## 📢 项目说明
-- 🔄 持续更新：xxx（如：每周更新1篇笔记）
-- 📚 个人学习用途：记录成长轨迹，方便回顾复习，也欢迎同好交流
-- 📌 项目地址：[github.com/你的用户名/momozi-ai-learning-book](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2F%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%2Fmomozi-ai-learning-book&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- 📧 交流方式：xxx（如：Issues留言 / 邮箱）
+### 3. 莫言
 
-> 🌟 愿在AI的世界里，保持好奇，持续成长～
+**用户：**
+```
+写一个关于乡村的故事
+```
+
+**Agent（莫言视角）：**
+> 高密东北乡的秋天是狗屎味的。不是骂人的话，是真的狗屎味。满地的狗屎被太阳晒得发酥，踩上去"咯吱"一声，像踩在脆饼上。
+>
+> 我爷爷说，这味道是土地的魂。我不信。我觉得这味道是土地的屁。
+>
+> 那天，我跟着爷爷去地里刨红薯。红薯埋在土里，像一群睡着的孩子。爷爷用锄头轻轻一刨，它们就滚出来，带着泥土的腥甜。我捡起一个，咬了一口，生的，辣得我眼泪直流。
+>
+> 爷爷笑了，他的笑声像破锣，震得地里的蟋蟀都停了叫。
+>
+> 那天傍晚，夕阳把高密东北乡染成了血红色。我看见爷爷的影子被拉得很长很长，一直伸到地的那一头，伸到我看不见的地方。
+>
+> 很多年后，我才明白，那影子是爷爷的魂，早就跟着夕阳一起走了。
+
+---
+
+### 4. 张爱玲
+
+**用户：**
+```
+写一个关于爱情的故事
+```
+
+**Agent（张爱玲视角）：**
+> 振保的生命里有两个女人，一个是圣洁的妻，一个是热烈的情妇。他以为自己是那个做选择的人，其实他只是被选择的那一个。
+>
+> 烟鹂是白的，像墙上的一抹蚊子血。娇蕊是红的，像心口上的一颗朱砂痣。振保在这红白之间徘徊了半生，最后发现，他自己才是那被抛弃的。
+>
+> 三十年前的上海，一个有月亮的晚上。振保站在阳台上，看着楼下的娇蕊上了黄包车。她没有回头，他知道她不会回头。月亮是黄的，像一枚生锈的铜钱，买断了他们之间的所有可能。
+>
+> 生命是一袭华美的袍，爬满了蚤子。振保的袍子上，爬满了烟鹂和娇蕊的蚤子。他挠了一辈子，越挠越痒。
+>
+> 后来他才明白，痒的不是蚤子，是那颗不甘的心。
+
+---
+
+### 5. 席慕容
+
+**用户：**
+```
+写一首关于等待的诗
+```
+
+**Agent（席慕容视角）：**
+> 我是一棵开花的树
+> 长在你必经的路旁
+> 阳光下慎重地开满了花
+> 朵朵都是我前世的盼望
+>
+> 当你走近 请你细听
+> 那颤抖的叶是我等待的热情
+> 而当你终于无视地走过
+> 在你身后落了一地的
+> 朋友啊 那不是花瓣
+> 是我凋零的心
+
+---
+
+### 6. 琼瑶
+
+**用户：**
+```
+写一个关于表白的故事
+```
+
+**Agent（琼瑶视角）：**
+> "山无棱，天地合，才敢与君绝！"
+>
+> 紫薇跪在皇帝面前，眼泪像断了线的珍珠，一颗颗砸在金銮殿的地砖上。她的声音颤抖着，却坚定得像一座山。
+>
+> "皇上，您还记得大明湖畔的夏雨荷吗？她等了一辈子，盼了一辈子，最后含恨而终。她让我来找您，她说，您会相信我的。"
+>
+> 皇帝的手在龙椅上颤抖。三十年前的那个夏天，大明湖畔的荷花盛开，夏雨荷穿着白色的裙子，像一朵盛开的莲花。他说过要回来接她，但他没有。
+>
+> "紫薇……"皇帝的声音哽咽了，"你……你是朕的女儿？"
+>
+> "我是！"紫薇抬起头，眼中闪烁着泪光，"我是您的女儿，我是夏雨荷的女儿，我是……"
+>
+> 她的话还没说完，皇帝已经冲下龙椅，一把抱住了她。
+>
+> "我的孩子！朕的孩子！"
+>
+> 金銮殿上，文武百官跪了一地。没有人敢抬头，没有人敢说话。只有紫薇的哭声，像一首悲伤的歌，在殿中回荡。
+>
+> 那是1998年的夏天，还珠格格的故事，从这里开始。
+
+---
+
+## 文件结构
+
+每个作家Skill文件夹包含：
+
+```
+作家名-perspective/
+├── SKILL.md                  # 主Skill文件（核心心智模型）
+└── references/
+    └── research/
+        ├── 01-writings.md    # 著作调研
+        ├── 02-conversations.md # 对话访谈
+        ├── 03-expression-dna.md # 表达DNA
+        ├── 04-external-views.md # 他者视角
+        ├── 05-decisions.md   # 决策记录
+        └── 06-timeline.md    # 时间线
+```
+
+---
+
+## 使用方式
+
+### 1. 直接阅读SKILL.md
+
+每个作家的SKILL.md都包含：
+- 身份卡：作家简介和创作信条
+- 心智模型：5个核心思维框架
+- 决策启发式：创作决策规则
+- 表达DNA：语言风格和经典句式
+- 时间线：关键人生节点
+- 诚实边界：Skill的能力和局限
+
+### 2. 作为AI Prompt使用
+
+将SKILL.md的内容作为system prompt，让AI以特定作家的视角回答问题。
+
+### 3. 安装到OpenClaw
+
+将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在OpenClaw中直接调用。
+
+---
+
+## 创作理念
+
+> 「我不是在写爱情诗，我是在写生命里的那些时刻。」——席慕容
+
+> 「我写的是爱情，我相信爱情。」——琼瑶
+
+> 「我的小说里，除了《金锁记》里的曹七巧，全是些不彻底的人物。」——张爱玲
+
+每个作家都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
+
+---
+
+## 致谢
+
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
+- [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
+- 8+位作家 - 创作灵感来源
+
+---
+
+## License
+
+MIT License - 自由使用，请注明出处。
+
+---
+
+> 「山无棱，天地合，才敢与君绝。」——琼瑶
