@@ -1,11 +1,12 @@
 # 🥰 赛博永生 skill 仓库 🥰 awesome-ai-persona-skills
 
 
-<h1 align="center"> 作家小说家.skill</h1>
+<h1 align="center"> awesome-ai-persona-skills </h1>
 
 <p align="center">
-「✨ 那何必只蒸馏同事？？蒸馏你喜欢的作家吧！」
-「蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
+「🔥 全网100+AI人格合集 + 原创小说家文风蒸馏 · 赛博永生🥰
+ 「✨ 这里有全网最全的100+ 人格skill 」
+「那何必只蒸馏同事？？蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
 </p>
 
 <p align="center">
@@ -15,13 +16,15 @@
 </p>
 
 <p align="center">
-用 女娲skill 蒸馏顶级作家的灵魂，让刘慈欣、莫言、张爱玲、余华、李碧华、琼瑶、席慕容、当年明月都给你当笔杆子。
+❤️两大核心板块❤️：<br>
+ 1、 全网合集 100+ 成熟AI人格Skill  <br>
+ 2、 本人独家手工蒸馏顶级作家创作思维 <br>
 </p>
 
 <p align="center">
 <a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
+✨ 这里有全网最全的人格skill, 持续更新，持续蒸馏中。。 <br>
 ✨ 那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
-✨ 我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
  ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
