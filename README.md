@@ -1,8 +1,8 @@
-# 赛博人格永生*skill：awesome-ai-persona-skills
+# 赛博人格永生 skills
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
-<h1 align="center"> 全网最全的100+ 人格skills </h1>
+<h1 align="center"> 全网最全的、持续更新的、最火爆的 100+ 人格skills </h1>
 
 
 <p align="center">
