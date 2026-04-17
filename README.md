@@ -42,8 +42,9 @@
 <a href="./README_JP.md">日本語</a> ·
 <a href="./README_KO.md">한국어</a> ·
 </p>
+
 ## 📁 仓库文件结构
-```
+```bash
 awesome-ai-persona-skills/
 ├── Novelists/                # 🔥 本人原创：独家作家蒸馏Skill
 ├── 赛博人格skills.md         # ✅ 100+ 全网AI人格Skill 总合集
@@ -113,7 +114,7 @@ awesome-ai-persona-skills/
 
 每个作家Skill文件夹包含：
 
-```
+```bash
 作家名-perspective/
 ├── SKILL.md                  # 主Skill文件（核心心智模型）
 └── references/
