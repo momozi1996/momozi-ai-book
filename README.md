@@ -91,8 +91,17 @@ awesome-ai-persona-skills/
 单文件快速导入，无复杂配置。
 
 ---
+### 📚 核心二：独家自研 · 永乐大典 Skill
 
-### 📚 核心二：独家自研 · 手工蒸馏 作家小说家 Skill
+《永乐大典》文明心智蒸馏专项，属于「中华古典典籍 AI Skill 共建计划」核心项目，依托传世残卷、馆藏文献、学界定本（如《永乐大典存目》《永乐大典辑佚书》）进行蒸馏。
+
+  [永乐大典.skill](https://github.com/momozi1996/yongledadian-skill/blob/main/yongledadian-skill/SKILL.md)<br>
+ **题材**：中华古典典籍<br>
+ **触发词**：「永乐大典视角」「涵纳百川」 <br>
+ <img width="1022" height="1146" alt="20260423-163346" src="https://github.com/user-attachments/assets/b9e5fc4e-3112-44dd-99af-497a36d1e4bb" />
+
+---
+### 📚 核心三：独家自研 · 手工蒸馏 作家小说家 Skill
 依托「女娲蒸馏」技术，**本人独立完成全流程拆解与定制**，纯手工调校、原创打磨。
 绝非网上通用风格模板，深度拆解每一位作家的：
 叙事 DNA、语感节奏、人物塑造逻辑、世界观内核、意象象征体系、情绪表达范式
