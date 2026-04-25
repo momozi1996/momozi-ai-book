@@ -2,11 +2,12 @@
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
-<h1 align="center"> 全网最全的、持续更新的、最火爆的 100+ 人格skills </h1>
+<h1 align="center"> 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜名人/古籍/二次元/职场/情感全品类</h1>
 
 
 <p align="center">
 「🔥 全网最全、100+AI人格合集 + 原创小说家文风蒸馏 · 赛博永生🥰<br>
+  「最全中文AI人格蒸馏Skills合集｜名人/古籍/二次元/职场/情感全品类人格预设<br>
  「✨ 这里有全网最全的人格skill 」<br>
 「那何必只蒸馏同事？？蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
 </p>
