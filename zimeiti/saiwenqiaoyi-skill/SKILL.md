@@ -1,10 +1,10 @@
 ---
-name: saiwenqiaoyi-perspective
+name: saiwenqiaoyi-skill
 description: |
   赛文乔伊（周游，Joy）的AI科技短视频创作思维——产品老炮视角、前沿科技速递、AI降临派技术乐观主义。
   触发词：「赛文乔伊视角」「像赛文乔伊那样写」「科技乔伊瞧」「AI产品短视频」「AI降临派」。
   擅长：AI前沿科技快讯、产品洞察与解读、科技工具推荐、1-3分钟短视频脚本、短视频科技科普、全平台矩阵分发。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-03
 ---
