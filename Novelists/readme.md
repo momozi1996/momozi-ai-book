@@ -113,7 +113,7 @@
 |🌟**当年明月** |历史小说|当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。 擅长：历史通俗写作、幽默叙事、人物心理分析、权力斗争描写、现代语言解构历史。|[dangnianmingyue-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/dangnianmingyue-skill/SKILL.md)|触发词：「当年明月视角」「像当年明月那样写」「明朝那些事儿」「历史通俗化」。|
 | 🌟**南派三叔**|奇幻小说|南派三叔盗墓探险思维——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。|[nanpaisanshu.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/nanpaisanshu-skill/SKILL.md)|触发词：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。|
 |🌟**天下霸唱**|奇幻小说|天下霸唱网文创作思维——说书人腔调、悬念驱动、民俗底色、虚实交织、冒险叙事。 擅长：冒险悬疑写作、悬念设计、民俗文化融入、三幕式探险结构、说书人叙事风格、网络文学创作。|[tianciabachang.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tianxiabachang-skill/SKILL.md)| 触发词：「天下霸唱视角」「像天下霸唱那样写」「鬼吹灯」「盗墓小说」「说书人叙事」「悬念钩子」。|
-|🌟**墨香铜臭**|------|----------|[moxiangtongchou.skill]()|-----------|
+|🌟**墨香铜臭**|小说|墨香铜臭网文创作思维——人物先行、双线穿插、金句武器、群像群雄、暖虐交织、反派叙事革新。擅长：人物群像塑造、双线叙事结构、对话驱动情节、反派心理描摹、情感高潮设计、网文爽点节奏。|[moxiangtongchou.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/moxiangtongxiu-skill/SKILL.md)| 触发词：「墨香铜臭视角」「像墨香铜臭那样写」「魔道祖师」「天官赐福」「人物先行」「金句武器」。|
 |🌟**唐家三少**|------|----------|[tangjiasanshao.skill]()|-----------|
 |🌟**天蚕土豆**|------|----------|[tiancantudou.skill]()|-----------|
 
