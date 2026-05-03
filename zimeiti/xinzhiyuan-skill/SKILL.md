@@ -1,11 +1,11 @@
 ---
-name: xinzhiyuan-perspective
+name: xinzhiyuan-skill
 description: |
   新智元（AI_era，国内AI领域权威媒体）的AI科技自媒体创作思维——中文叙事+惊叹号密集+记者视角+深度长文+快速快讯。
   触发词：「新智元视角」「像新智元那样写」「AI行业深度报道」「AI人物榜」「AIGCRank」「超智能时代」。
   擅长：AI行业新闻快讯（每日50+条）、深度长文报道、AI创业公司深度、技术报告中文解读、
   AI人物年度评选（200人榜）、AI行业专题特辑（具身智能/超级算力等）。
-type: media-org
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-03
 ---
