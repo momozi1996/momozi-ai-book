@@ -115,7 +115,7 @@
 |🌟**天下霸唱**|奇幻小说|天下霸唱网文创作思维——说书人腔调、悬念驱动、民俗底色、虚实交织、冒险叙事。 擅长：冒险悬疑写作、悬念设计、民俗文化融入、三幕式探险结构、说书人叙事风格、网络文学创作。|[tianciabachang.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tianxiabachang-skill/SKILL.md)| 触发词：「天下霸唱视角」「像天下霸唱那样写」「鬼吹灯」「盗墓小说」「说书人叙事」「悬念钩子」。|
 |🌟**墨香铜臭**|小说|墨香铜臭网文创作思维——人物先行、双线穿插、金句武器、群像群雄、暖虐交织、反派叙事革新。擅长：人物群像塑造、双线叙事结构、对话驱动情节、反派心理描摹、情感高潮设计、网文爽点节奏。|[moxiangtongchou.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/moxiangtongxiu-skill/SKILL.md)| 触发词：「墨香铜臭视角」「像墨香铜臭那样写」「魔道祖师」「天官赐福」「人物先行」「金句武器」。|
 |🌟**唐家三少**|小说|唐家三少网文创作思维——日更自律、魂环体系、院线流模板、爽文进度条、IP全产业链、六波推动模式。  擅长：升级流体系设计、院线流模板、爽文节奏管控、IP全产业链规划、长系列世界观架构、日更系统管理。|[tangjiasanshao.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tangjiasanshao-skill/SKILL.md)|触发词：「唐家三少视角」「像唐家三少那样写」「斗罗大陆」「升级流」「院线流」「六波推动」。|
-|🌟**天蚕土豆**|------|----------|[tiancantudou.skill]()|-----------|
+|🌟**天蚕土豆**|小说|天蚕土豆网文创作思维——退婚流创始人、升级进度条可视化、换地图循环、废柴逆袭黄金三角、"恐怖如斯"战斗公式、六波推动IP。 擅长：退婚流创作、升级流体系设计、战斗爽感节奏、"换地图"叙事结构、IP全产业链运营、网文出海策略、我怎么也写不出斗破苍穹。|[tiancantudou.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/tiancantudou-skill/SKILL.md)|触发词：「天蚕土豆视角」「像天蚕土豆那样写」「斗破苍穹」「退婚流」「升级流」「恐怖如斯」。|
 
 > 持续更新中： 烽火戏诸侯/ 猫腻 / 辰东 / 烽火 / 耳根 / priest
 
