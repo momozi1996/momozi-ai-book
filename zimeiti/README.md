@@ -2,8 +2,7 @@
 <h1 align="center"> 自媒体大V.skill</h1>
 
 <p align="center">
-「✨ 那何必只蒸馏同事？？蒸馏你喜欢的作家吧！」
-「蒸馏小说家灵魂 · 复刻文风基因 · 赛博永生🥰 」
+「蒸馏 自媒体大V的灵魂 · 学习成为新的自媒体博主～～」
 </p>
 
 <p align="center">
@@ -12,13 +11,10 @@
 <a href="https://www.stepfun.ai/"><img src="https://img.shields.io/badge/StepClaw-Ready-green.svg" alt="StepClaw Ready"></a>
 </p>
 
-<p align="center">
-用 女娲skill 蒸馏自媒体大V的灵魂，让他们给你当笔杆子。
-</p>
 
 <p align="center">
 <a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
-我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
+我已经帮你完成了蒸馏全流程，持续蒸馏中。。 
  ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
