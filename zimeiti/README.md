@@ -36,43 +36,47 @@
 
 # 简介
 
-这个仓库收录了 10+ 位 自媒体大V的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
-每个Skill都包含了他们的核心心智模型、表达DNA、决策启发式和经典作品分析。
+这个仓库收录了 **10+ 位** 自媒体大V的创作思维 Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
+每个 Skill 都包含了他们的核心心智模型、表达 DNA、决策启发式和经典作品分析。
 
-#  文件结构
+> ⚠️ **蒸馏进度**：目前已完成 **3** 位（秋芝2046 · 数字生命卡兹克 · 赛文乔伊），**7** 位规划中。欢迎 PR 贡献！
 
-###  每个Skill文件夹包含：
+
+## 📁 文件结构
+
+### 每个 Skill 文件夹包含：
 
 ```
 大V名-perspective/
-├── SKILL.md                  # 主Skill文件（核心心智模型）
+├── SKILL.md                      # 主 Skill 文件（核心心智模型 + 启发式 + 表达 DNA）
 └── references/
     └── research/
-        ├── 01-writings.md    # 著作调研
-        ├── 02-conversations.md # 对话访谈
-        ├── 03-expression-dna.md # 表达DNA
-        ├── 04-external-views.md # 他者视角
-        ├── 05-decisions.md   # 决策记录
-        └── 06-timeline.md    # 时间线
+        ├── 01-writings.md        # 著作与内容体系
+        ├── 02-conversations.md   # 访谈与公开表达
+        ├── 03-expression-dna.md  # 表达 DNA 与风格
+        ├── 04-external-views.md  # 他者视角与评价
+        ├── 05-decisions.md       # 创立逻辑与关键决策
+        └── 06-timeline.md        # 时间线与平台分布
 ```
 
-
-###  每个大V的SKILL.md都包含：
-- 身份卡：大v简介和创作信条<br>
-- 心智模型：5个核心思维框架<br>
-- 决策启发式：创作决策规则<br>
-- 表达DNA：语言风格和经典句式<br>
-- 时间线：关键人生节点<br>
-- 诚实边界：Skill的能力和局限<br>
+### 每个大V的 SKILL.md 都包含：
+- **身份卡**：大V 简介和创作信条
+- **心智模型**：5~7 个核心思维框架
+- **决策启发式**：创作决策规则
+- **表达 DNA**：语言风格和经典句式
+- **时间线**：关键人生节点
+- **诚实边界**：Skill 的能力和局限
 
 ---
-### 🧪使用场景： 
-你可以用这些Skill来：
-- 模仿特定大V的写作风格
+
+### 🧪 使用场景：
+你可以用这些 Skill 来：
+- 模仿特定大V 的写作风格
 - 获取创作灵感和构思框架
-- 学习不同大V的叙事技巧
-- 构建自己的写作Agent
- ---
+- 学习不同大V 的叙事技巧
+- 构建自己的写作 Agent
+
+---
 
 # 自媒体大V的 Skill目录
 
@@ -91,7 +95,7 @@
 |特工宇宙|------|----------|[tegongyuzhou.skill]()|-----------|-----------|
 
 
-> 持续更新中： 秋芝/数字生命卡兹克/赛文乔伊/赛博禅心/量子位/新智元/极客公园/特工宇宙/硅星人/机器之心/极客公园
+> 🔜 **持续蒸馏中**： 赛博禅心/宝玉/量子位/新智元/极客公园/特工宇宙/硅星人/机器之心/极客公园
 
 ### 二、网红大V
 | 　　自媒体大V　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
@@ -100,123 +104,168 @@
 > 持续更新中： 李诞/罗永浩/徐志胜/付恒
 
 ---
-# 🚀 快速开始
 
-🦈 创始人，给你三种一键安装方式：
+### 三、作家文学视角（姊妹仓库）
+> 以下为同系列 Skill，详见 [awesome-ai-book/Novelists/](https://github.com/momozi1996/momozi-ai-book/tree/main/Novelists)
 
-### 🚀 快速开始：一键安装所有Skill
+| 作家 | 风格特征 |
+|------|---------|
+| 刘慈欣 | 硬科幻 · 宇宙社会学 · 技术乐观主义 |
+| 余华 | 苦难叙事 · 冷峻温情 · 民间视角 |
+| 鲁迅 | 国民性批判 · 匕首投枪 · 冷峻白描 |
+| 张爱玲 | 苍凉美学 · 参差对照 · 沪港双城 |
+| 当年明月 | 历史通俗化 · 幽默叙事 · 权力与人性 |
+| 天蚕土豆 | 退婚流 · 升级流 · 换地图叙事 |
+| 唐家三少 | 标准化网文体系 · invariants · IP 运营 |
+| 莫言 | 魔幻现实主义 · 高密东北乡 · 民间叙事 |
+| 老舍 | 京味儿文学 · 市民生活 · 幽默悲凉 |
+| 三毛 | 流浪文学 · 沙漠爱情 · 自由灵魂 |
+| 史铁生 | 轮椅上的哲思 · 生死之问 · 苦难超越 |
+| 席慕容 | 抒情诗 · 乡愁 · 诗画交融 |
+| 南派三叔 | 盗墓探险 · 悬疑氛围 · 铁三角 |
+| 天下霸唱 | 鬼吹灯 · 风水秘术 · 民俗怪谈 |
+| 墨香铜臭 | 群像叙事 · 耽美 · 善恶张力 |
+| 琼瑶 | 言情至上 · 唯美浪漫 · 戏剧冲突 |
+| 李碧华 | 奇情叙事 · 冷艳诡谲 · 历史重构 |
 
-##### 方式一：使用安装脚本（推荐）
+---
+
+## 🚀 快速开始
+
+### 🚀 一键安装（推荐）
 
 ```bash
+# 国内镜像（网速慢选这个）
+curl -sL https://ghfast.top/https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
+
+# 或直接 GitHub 源
 curl -sL https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
 ```
-##### 方式二：手动逐个安装
-```bash
-# 安装刘慈欣
-npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
-# 安装余华
-npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
 
-# ... 其他大V
+### ✅ 手动逐个安装
+
+```bash
+# ← AI 行业大V
+npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/qiuzhi2046-skill
+npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/shuzishengmingkazike-skill
+npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/saiwenqiaoyi-skill
+
+# ← 作家文学视角（姊妹仓库）
+npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
+# ... 更多
 ```
 
-##### 方式三：批量安装
+### 📦 批量离线安装
+
 ```bash
 git clone https://github.com/momozi1996/momozi-ai-book.git
 cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
 ```
 
 ---
-### 🦞 OpenClaw 原生支持从GitHub直接安装
-如果OpenClaw支持从GitHub直接安装，可以用：
+
+### 🦞 OpenClaw 原生支持从 GitHub 直接安装
+
+如果 OpenClaw 支持从 GitHub 直接安装，可以用：
 
 ```bash
-# 安装整个Novelists目录
+# 安装整个 AI 行业大V 目录
+npx skills add momozi1996/awesome-ai-persona-skills/zimeiti
+
+# 安装整个 Novelists 目录
 npx skills add momozi1996/momozi-ai-book/Novelists
-# 或安装单个
-npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+
+# 或单个安装
+npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/kazike-skill
 ```
 
-# 🤔指南：我是怎么蒸馏大VSkill的？
+---
 
-### 1. 安装女娲Skill
+## 🤔 蒸馏指南：这些都是怎么出来的？
+
+### 1. 安装女娲 Skill
 
 ```bash
 npx skills add alchaincyf/nuwa-skill
 ```
 
-致谢
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
+**致谢**
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill 蒸馏方法论
 
-### 2. 利用女娲Skill蒸馏人物
+### 2. 利用女娲 Skill 开始蒸馏
 
 ```bash
-# 示例：蒸馏某自媒体大V
-非常好，用nuwa-skill蒸馏一个自媒体博主-秋芝，或者叫秋芝2046，我希望你能先查他的所有资料和自媒体风格，可能在微信公众号、B站、X、小红书、微博之类的自媒体平台上都有，希望你做得更加全面而详细准确，构造一个最像他的。
+# 示例：蒸馏某个自媒体大V
+非常好，用nuwa-skill蒸馏一个自媒体博主- [博主名]，我希望你能先查他的所有资料和自媒体风格，
+可能在微信公众号、B站、X、小红书、微博之类的自媒体平台上都有，请你做得更加全面而详细准确，构造一个最像他的。
 ```
 
-### 3. 等待OpenClaw完成任务 (本人使用：阶跃 AI・StepClaw)
+### 3. 等待 OpenClaw 完成任务（本人使用：阶跃 AI · StepClaw）
 
-系统会自动启动6个并行Agent进行多维度调研：
-- 1. 著作与创作理念
-- 2. 长对话与访谈
-- 3. 表达DNA与风格
-- 4. 他者及评论界视角与批评
-- 5. 创作决策与转折点
-- 6. 人生时间线
+系统会自动启动 6 个并行 Agent 进行多维度调研：
+- 1. 著作与内容体系
+- 2. 访谈与公开表达
+- 3. 表达 DNA 与风格
+- 4. 他者视角与评价
+- 5. 创立逻辑与关键决策
+- 6. 时间线与平台分布
 
 ### 4. 保存到本地
 
 ```bash
-# 保存文件夹到下载目录
-把这个Skill相关的文件，做成文件夹
-保存到我的电脑本地的下载的目录里吧。
+# 保存 folder 到下载目录
+把这个 Skill 相关的文件，做成文件夹，保存到我的电脑本地的下载的目录里吧。
 （检查所有的文件不要出错，也不要为空）
 ```
 
 ---
 
-# 使用方式
+## 💡 使用方式
 
-### 1. 直接阅读SKILL.md
+### 方式一：直接阅读 SKILL.md
 
-每个大V的SKILL.md都包含：
-- 身份卡：大V简介和创作信条
-- 心智模型：5个核心思维框架
+每个大V 的 SKILL.md 都包含：
+- 身份卡：大V 简介和创作信条
+- 心智模型：5-7 个核心思维框架
 - 决策启发式：创作决策规则
-- 表达DNA：语言风格和经典句式
+- 表达 DNA：语言风格和经典句式
 - 时间线：关键人生节点
-- 诚实边界：Skill的能力和局限
+- 诚实边界：Skill 的能力和局限
 
-### 2. 作为AI Prompt使用
+### 方式二：作为 AI Prompt 使用
 
-将SKILL.md的内容作为system prompt，让AI以特定大V的视角回答问题。
+将 SKILL.md 的内容作为 system prompt，让 AI 以特定大V 的视角回答问题。
 
-### 3. 安装到OpenClaw
+### 方式三：安装到 OpenClaw 直接调用
 
-将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在OpenClaw中直接调用。
-
----
-
-# 创作理念
-
-> 「我不是在写爱情诗，我是在写生命里的那些时刻。」——席慕容
-> 「我写的是爱情，我相信爱情。」——琼瑶
-> 「我的小说里，除了《金锁记》里的曹七巧，全是些不彻底的人物。」——张爱玲
-每个大V都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
+将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在 OpenClaw 中直接调用。
 
 ---
 
-# 致谢
+## 💬 创作理念
 
-- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
-- [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
--各位经典大V - 文字灵感与创作源泉
+> 「未来已来，只是分布不均。」——数字生命卡兹克
+> 「科技不应该有信息差和壁垒。」——赛文乔伊
+> 「AI素养不是一个光谱，不存在高低，只有合不合用。」
+每个大V都有独特的创作 DNA。这个仓库的目标，就是用 AI 的方式，保存和传承这些珍贵的创作思维。
 
 ---
 
-# 关于作者
+## 🤝 致谢
+
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill 蒸馏方法论
+- [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent 运行环境
+- 各位自媒体大V - 创作灵感与内容源泉
+
+---
+
+## License
+
+MIT License - 自由使用，二次创作请保留仓库出处。
+
+
+# 👤 关于作者
  **momozi**  — AI 博主，AI行业技术产品经理，AI 公众号「momo子讲AI」主理人
 
 16岁高考，省前0.3%，北理本硕<br>
