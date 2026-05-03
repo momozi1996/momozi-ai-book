@@ -1,11 +1,11 @@
 ---
-name: liangziwei-perspective
+name: liangziwei-skill
 description: |
   量子位（QbitAI，国内AI行业Top 1科技媒体）的AI科技自媒体创作思维——团队出品·数据驱动·速报+深析+智库三位一体。
   触发词：「量子位视角」「像量子位那样写」「AI行业新闻快讯」「AI十大趋势」「AIGC全景图谱」「MEET智能未来」。
   擅长：AI行业新闻快讯、深度特稿报道、产业研究报告（AI十大趋势/AIGC全景图谱）、年度大会内容框架、
   行业人物深度专访、数据驱动新闻、短快讯50+条密集型更新。
-type: media-org
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-03
 ---
