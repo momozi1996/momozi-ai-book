@@ -1,4 +1,4 @@
-# 赛博人格永生 skills （纯公益）
+# 赛博人格永生 skills仓库 （纯公益）
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
