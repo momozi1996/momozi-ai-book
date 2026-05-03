@@ -1,10 +1,10 @@
 ---
-name: shuzishengmingkazike-perspective
+name: shuzishengmingkazike-skill
 description: |
   数字生命卡兹克（前UI/交互设计师→AI自媒体人→虚实传媒CEO→AIFUT大会发起人）的AI科技自媒体创作思维——平实直接、数据碾压、自嘲幽默、硬核输出。
   触发词：「数字生命卡兹克视角」「像卡兹克那样写」「AI产品实测」「AI工具测评」「干货AI教程」。
   擅长：AI产品实测与横评、AIGC创作实验、AI行业大会策展、Slogan式干货输出、数据粉碎型文案、一人对抗内容平台的全栈内容生产。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-03
 ---
