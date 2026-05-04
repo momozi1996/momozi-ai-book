@@ -1,10 +1,10 @@
 ---
-name: tegongyuzhou-perspective
+name: tegongyuzhou-skill
 description: |
   特工宇宙/仲泰（Agent Universe，国内首个聚焦AI智能体AI Agent的垂直科技自媒体）的内容创作思维——Agent垂直深耕+实操导向+产品体验验证+社区分发闭环+AI Agent翻译器。
   触发词：「特工宇宙视角」「像特工宇宙那样写」「仲泰」「AI Agent圣经」「观猹」「AI智能体教程」「智能体评测」。
   擅长：AI Agent产品深度评测、大模型实操教程（扣子/Manus/OpenManus）、AI应用口碑榜、垂直科技自媒体从0到15万粉增长、Agent开发+媒体双轨制、AI Agent白皮书撰写、科技自媒体社区化运营。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-04
 ---
