@@ -49,10 +49,10 @@
 ## 📁 仓库文件结构
 ```bash
 awesome-ai-persona-skills/
-├── Novelists/                # 🔥 本人原创：独家作家蒸馏Skill
-├── 赛博人格skills.md         # ✅ 100+ 全网AI人格Skill 总合集
-├── README.md                 # 仓库主页
-└── 各类Skill 资源与配套文档
+├── Novelists/                # 原创作家人格蒸馏技能库
+├── 赛博人格skills.md         # 全网AI人格技能总合集
+├── README.md                 # 仓库说明主页
+└── 各类Skill 资源与配套文档  # 配套资料、模板与辅助资源
 ```
 
 ---
@@ -68,10 +68,7 @@ awesome-ai-persona-skills/
 
 ## ✨ 仓库两大核心定位
 ### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
-整理了全网最全、持续更新的 AI 人格蒸馏 Skill 合集： 
 👉 [赛博人格skills.md](./赛博人格skills.md)
-
-这是**标准化、可直接导入Agent**的完整人格蒸馏库。
 
 覆盖 **自我蒸馏**、**职场关系**、**名人思维**、**情感陪伴**、**玄学术数**、**二次元角色** 等场景，超过50种 skill，全部为可直接导入使用的开源 Agent Skill。
 
@@ -81,8 +78,7 @@ awesome-ai-persona-skills/
 - 玄学术数 / 赛博命理 / 小众趣味人格
 - 自我人格蒸馏、多角色模拟、Agent快速人设切换
 
-全部统一 Skill 规范格式，开箱即用，兼容 StepClaw / OpenClaw 全平台，
-是目前开源圈内**收录最全、更新最稳定**的轻量化人格 Skill 仓库。
+全部统一 Skill 规范格式，开箱即用，兼容 StepClaw / OpenClaw 全平台，是目前开源圈内**收录最全、更新最稳定**的轻量化人格 Skill 仓库。
 
 | 图片　 |  图片 |
 |-----------|------|
