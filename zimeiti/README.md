@@ -16,7 +16,7 @@
 
 
 <p align="center">
- ❤️ star+fork ❤️ 支持我们吧～🎉 <br>
+**⭐ Star + Fork 支持这个开源项目 ｜ 你想蒸馏谁？[留言告诉我们] 🎉** <br>
 </p>
 
 
@@ -25,6 +25,7 @@
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_yhppl2yhppl2yhpp" src="https://github.com/user-attachments/assets/fbda1fbe-0dc7-46ef-8929-1794da99e3cd" />
 
+---
 ## 🧠 这是什么？
 
 每个自媒体大V都有独特的**创作DNA**——
@@ -39,53 +40,37 @@
 **你不再需要说「帮我写一篇AI行业分析」——你可以说「用机器之心的视角，写一篇AI行业分析」。**
 
 
-# 简介
-
-这个仓库收录了 **10+ 位** 自媒体大V的创作思维 Skill，每个 Skill 都包含了他们的核心心智模型、表达 DNA、决策启发式和经典作品分析。
-
 > ⚠️ **蒸馏进度**：目前已完成 **12** 位（秋芝2046 · 数字生命卡兹克 · 赛文乔伊 · 赛博禅心 · 量子位 · 新智元 · 极客公园 · 硅星人 · 机器之心 · 特工宇宙 · 宝玉 · 李继刚 ·  ·  · ），**其他各位** 规划中。欢迎 PR 贡献！
-
-
-## 📁 文件结构
-
-### 每个 Skill 文件夹包含：
-
-```
-大V名-perspective/
-├── SKILL.md                      # 主 Skill 文件（核心心智模型 + 启发式 + 表达 DNA）
-└── references/
-    └── research/
-        ├── 01-writings.md        # 著作与内容体系
-        ├── 02-conversations.md   # 访谈与公开表达
-        ├── 03-expression-dna.md  # 表达 DNA 与风格
-        ├── 04-external-views.md  # 他者视角与评价
-        ├── 05-decisions.md       # 创立逻辑与关键决策
-        └── 06-timeline.md        # 时间线与平台分布
-```
-
-### 每个大V的 SKILL.md 都包含：
-- **身份卡**：大V 简介和创作信条
-- **心智模型**：5~7 个核心思维框架
-- **决策启发式**：创作决策规则
-- **表达 DNA**：语言风格和经典句式
-- **时间线**：关键人生节点
-- **诚实边界**：Skill 的能力和局限
 
 ---
 
-### 🧪 使用场景：
-你可以用这些 Skill 来：
-- 模仿特定大V 的写作风格
-- 获取创作灵感和构思框架
-- 学习不同大V 的叙事技巧
-- 构建自己的写作 Agent
+## 📁  文件结构每个 Skill 包含什么？
+
+```
+大V名-perspective/
+├── SKILL.md                    # 主文件：心智模型 + 启发式 + 表达DNA
+└── references/research/
+    ├── 01-writings.md          # 代表作品与内容矩阵
+    ├── 02-conversations.md     # 公开对话与行业互动
+    ├── 03-expression-dna.md    # 表达风格与语言特征
+    ├── 04-external-views.md    # 外部评价与行业共识
+    ├── 05-decisions.md         # 关键决策节点
+    └── 06-timeline.md          # 时间线与平台分布
+```
+
+每个 `SKILL.md` 都通过 **nuwa-skill 6/6 质量检查**：
+- ✅ 6个核心心智模型
+- ✅ 模型局限性标注
+- ✅ 高辨识度表达DNA
+- ✅ 诚实边界声明
+- ✅ 内在张力揭示
+- ✅ 一手来源支撑
 
 ---
 
 # 自媒体大V的 Skill目录
 
-
-### 一、AI行业大V--个人型
+### 一、AI行业大V--个人创作者
 |自媒体大V　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |✨ 最独特|
 |-----------|------|----------|-----------|-----------|-----------|
 |秋芝2046|AI科普内容|秋芝2046（前产品经理，AI Native创作者）的AI科普内容创作思维——爆肝实操导向、痛点前置产品思维、全平台内容矩阵、B站深度+抖音短平快+飞书系统化。 擅长：AI工具测评与推荐、AI教程设计（幼儿园→专业级）、技术热点快速响应、AIGC内容实验、多平台内容矩阵运营、飞书知识库架构、AI春晚级别的项目管理。|[qiuzhi2046.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/qiuzhi2046-skill/SKILL.md)|触发词：「秋芝2046视角」「像秋芝2046那样写」「AI科普教程」「DeepSeek教程」「One-Click解决一切」。|秋芝2046最大的差异化不是"写得好"，而是一个人的全栈闭环：B站深度内容→抖音短平快→飞书系统知识库→AI春晚搭台→QClaw产品交付。从内容到产品到产业级项目，一个人就是一支队伍。|
@@ -117,6 +102,34 @@
 > 🔜 **持续蒸馏中**：李诞 · 罗永浩 · 徐志胜 · 付恒
 
 ---
+
+## 🎯 使用场景
+
+### ✍️ 写作风格模仿
+```
+用李继刚的视角，写一篇关于"什么是好的提示词"的文章
+→ 输出：Lisp伪代码风格 + 哲学追问 + 压缩美学
+```
+
+### 💡 创作灵感激发
+```
+用极客公园的视角，分析一下Manus这个产品
+→ 输出：Why追问叙事 + 非共识判断 + 创始人视角
+```
+
+### 📊 行业分析
+```
+用机器之心的视角，写一篇具身智能产业分析
+→ 输出：论文级深度 + 三层推演(技术→商业→生态) + 数据支撑
+```
+
+### 🤖 构建你的写作Agent
+```
+将 SKILL.md 作为 system prompt，让 AI 以特定大V的视角持续输出
+```
+
+---
+
 
 ### 姐妹篇：作家文学视角（姊妹仓库）
 > 以下为同系列 Skill，详见 [awesome-ai-book/Novelists/](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists)
@@ -234,34 +247,61 @@ npx skills add alchaincyf/nuwa-skill
 
 ---
 
-## 💡 使用方式
 
-### 方式一：直接阅读 SKILL.md
+## 🔮 路线图
 
-每个大V 的 SKILL.md 都包含：
-- 身份卡：大V 简介和创作信条
-- 心智模型：5-7 个核心思维框架
-- 决策启发式：创作决策规则
-- 表达 DNA：语言风格和经典句式
-- 时间线：关键人生节点
-- 诚实边界：Skill 的能力和局限
+### 征集
+你还想看到谁被蒸馏？[→ 在这里留言](https://github.com/momozi1996/awesome-ai-persona-skills/issues)
 
-### 方式二：作为 AI Prompt 使用
-
-将 SKILL.md 的内容作为 system prompt，让 AI 以特定大V 的视角回答问题。
-
-### 方式三：安装到 OpenClaw 直接调用
-
-将文件夹复制到 `~/.stepclaw/skills/` 目录，即可在 OpenClaw 中直接调用。
+热门提名：张鹏 · 归藏 · 庄明浩 · 王小川 · 李彦宏
 
 ---
 
-## 💬 创作理念
+## 🤝 如何贡献？
 
-> 「未来已来，只是分布不均。」——数字生命卡兹克
-> 「科技不应该有信息差和壁垒。」——赛文乔伊
-> 「AI素养不是一个光谱，不存在高低，只有合不合用。」
-每个大V都有独特的创作 DNA。这个仓库的目标，就是用 AI 的方式，保存和传承这些珍贵的创作思维。
+1. **Fork** 本仓库
+2. 用以下指令触发蒸馏：
+
+> 「非常好，用nuwa-skill蒸馏一个自媒体博主- [博主名]，我希望你能先查他的所有资料和自媒体风格，可能在微信公众号、B站、X、小红书、微博之类的自媒体平台上都有，请你做得更加全面而详细准确，构造一个最像他的。」
+
+3. AI 会自动启动 6 个并行 Agent 进行多维度调研
+4. 生成完整的 Skill 文件（7个文件，全部通过6/6质量检查）
+5. 提交 **PR**，我们审核后合并
+
+---
+
+## 📚 姊妹仓库
+
+| 仓库 | 内容 | 链接 |
+|------|------|------|
+| **作家文风蒸馏** | 刘慈欣·余华·鲁迅·张爱玲·莫言·老舍·三毛·史铁生…17位 | [Novelists/](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists) |
+| **100+人格合集** | 名人思维·职场人格·情绪陪伴·玄学术数·二次元角色 | [赛博人格skills.md](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/赛博人格skills.md) |
+| **女娲造人术** | Skill 蒸馏方法论源头 | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
+
+---
+
+## 💬 他们说的
+
+> 「未来已来，只是分布不均。」 —— 数字生命卡兹克
+
+> 「科技不应该有信息差和壁垒。」 —— 赛文乔伊
+
+> 「AI素养不是一个光谱，不存在高低，只有合不合用。」 —— 赛文乔伊
+
+> 「用20年时间，给世界留一句话。」 —— 李继刚
+
+---
+
+## 📄 License
+
+[MIT License](https://opensource.org/licenses/MIT)
+
+---
+
+<p align="center">
+  <sub>以人格蒸馏为载体，封存多元表达；以文豪文风为内核，延续文字浪漫。</sub>
+</p>
+
 
 ---
 
@@ -301,9 +341,6 @@ MIT License - 自由使用，二次创作请保留仓库出处。
 |<img width="748" height="720" alt="微信图片_20260418122454_270_84" src="https://github.com/user-attachments/assets/69df13e0-f949-4a4e-b051-128d75ad38a6" />|<img width="987" height="1347" alt="微信图片_20260418122519_271_84" src="https://github.com/user-attachments/assets/e480dc00-7cd0-4e76-919e-98fb3f9f3676" />|
 
 ---
-
-# License
-MIT License - 自由使用，二次创作请保留仓库出处。
 
 ---
 
