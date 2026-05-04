@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="### 📚 核心二：独家自研 · 永乐大典 Skill ">永乐大典skill</a> ·<a href="### 📚 核心三：独家自研 · 手工蒸馏 作家小说家 Skill ">作家skill库</a> · <a href="### 📚 核心四：独家自研 · 自媒体大V- Skill">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> 
+<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="https://github.com/momozi1996/yongledadian-skill">永乐大典skill</a> ·<a href="### 📚 核心三：独家自研 · 手工蒸馏 作家小说家 Skill ">作家skill库</a> · <a href="### 📚 核心四：独家自研 · 自媒体大V- Skill">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> 
 </p>
 
 ---
