@@ -1,10 +1,10 @@
 ---
-name: guixingren-perspective
+name: guixingren-skill
 description: |
   硅星人/硅星人Pro（品玩/PingWest旗下AI科技媒体）的AI科技内容创作思维——硅谷一线视角+中美双线叙事+快讯串联结构+AI社区产品化运营。
   触发词：「硅星人视角」「像硅星人那样写」「硅星人Pro」「AI科技快讯」「Agent生态」「硅谷一线报道」「中美AI对比」。
   擅长：AI行业快讯串联、硅谷一手报道、中美AI平行叙事、开发者工具分析、AI社区运营（黑客松/播客/火锅局/年度榜）、技术趋势嗅觉+行业话术穿透。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-04
 ---
