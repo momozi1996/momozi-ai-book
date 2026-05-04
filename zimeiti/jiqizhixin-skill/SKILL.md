@@ -1,10 +1,10 @@
 ---
-name: jiqizhixin-perspective
+name: jiqizhixin-skill
 description: |
   机器之心/Synced（国内首家系统性AI科技媒体）的AI内容创作思维——论文级深度+量化驱动+学术与产业双线并跑+产品化媒体运营。
   触发词：「机器之心视角」「像机器之心那样写」「Synced Review」「AI论文解读」「SOTA评测」「AI产业分析」「GMIS大会」。
   擅长：顶会论文拆解报道（ICLR/NeurIPS/CVPR）、AI模型数据评测（SOTA平台）、产业趋势三层推演（技术→商业→生态）、AI中国年度评选、学术中立+产业判断、PRO会员通讯。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-04
 ---
