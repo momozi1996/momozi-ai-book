@@ -39,13 +39,6 @@
 
 ---
 
-<p align="center">
-其他语言/Other Languages:
-<a href="./README_EN.md">English</a> ·
-<a href="./README_JP.md">日本語</a> ·
-<a href="./README_KO.md">한국어</a> ·
-</p>
-
 ## 📁 仓库文件结构
 ```bash
 awesome-ai-persona-skills/
