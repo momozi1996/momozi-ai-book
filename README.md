@@ -27,9 +27,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
-✨ 这里有全网最全的人格skill, 持续更新，持续蒸馏中。。 <br>
-✨ 那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
  ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
