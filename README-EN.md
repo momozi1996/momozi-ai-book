@@ -85,8 +85,9 @@ All resources follow unified standard skill specifications for instant deploymen
 
 | Preview | Preview |
 |-----------|------|
-|<img width="970" height="972" alt="Preview Screenshot 1" src="https://github.com/user-attachments/assets/e0035341-c66b-4bf0-b728-a3af24d3d38e" />|<img width="982" height="898" alt="Preview Screenshot 2" src="https://github.com/user-attachments/assets/b98a519a-fd81-4911-80a7-db63860753f" />|
-|<img width="1042" height="1128" alt="Preview Screenshot 3" src="https://github.com/user-attachments/assets/7b2b4acf-fc31-42cb-80ff-9924e02d603f" />|<img width="1046" height="1024" alt="Preview Screenshot 4" src="https://github.com/user-attachments/assets/c46c5aad-5072-417d-b262-49dad349134c" />|
+|<img width="970" height="972" alt="20260417-232240" src="https://github.com/user-attachments/assets/e0035341-c66b-4bf0-b728-a3af24d3d38e" />|<img width="982" height="898" alt="20260417-232246" src="https://github.com/user-attachments/assets/b98a519a-fd81-4911-80a7-db63860753f5" />|
+|<img width="1042" height="1128" alt="20260417-232250" src="https://github.com/user-attachments/assets/7b2b4acf-fc31-42cb-80ff-9924e02d603f" />|<img width="1046" height="1024" alt="20260417-232256" src="https://github.com/user-attachments/assets/c46c5aad-5072-417d-b262-49dad349134c" />|
+
 
 ---
 ### 📚 Core Module 2: Exclusive Customized · Yongle Encyclopedia Distillation Skill
