@@ -1,4 +1,4 @@
-# 赛博人格永生 skills仓库 （free）
+# 赛博人格永生 skills 仓库
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
