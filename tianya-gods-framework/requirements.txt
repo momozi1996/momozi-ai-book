@@ -1,0 +1,19 @@
+# 天涯神贴大神智囊团 - Python依赖
+# 基于ClawTeam多Agent架构
+
+# 基础依赖
+python>=3.7
+
+# 异步支持
+asyncio>=3.4.3
+
+# 数据类支持（Python 3.6+）
+dataclasses>=0.6; python_version < "3.7"
+
+# 类型提示
+typing-extensions>=3.7.4; python_version < "3.8"
+
+# 可选：增强功能
+# rich>=10.0.0  # 美化输出
+# pydantic>=1.8.0  # 数据验证
+# loguru>=0.5.0  # 日志记录

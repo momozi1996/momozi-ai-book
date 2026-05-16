@@ -1,0 +1,69 @@
+{
+  "name": "tianya-gods-team",
+  "version": "3.0.0",
+  "description": "天涯神贴大神智囊团 - 20位传奇大神多Agent决策系统",
+  "type": "skill",
+  "technology": "multi-agent-swarm",
+  "architecture": "ClawTeam",
+  "author": "女娲 · Skill造人术",
+  "created": "2026-04-28",
+  "updated": "2026-04-28",
+  "gods_count": 20,
+  "trigger_words": [
+    "启动天涯智囊团",
+    "召集大神",
+    "20位大神分析",
+    "天涯智囊团"
+  ],
+  "modes": [
+    "full_team",
+    "selected_group",
+    "compare",
+    "quick_consult"
+  ],
+  "categories": [
+    "权谋分析",
+    "经济预言",
+    "历史解读",
+    "文化解构",
+    "都市情感",
+    "黑帮江湖",
+    "探险冒险",
+    "玄幻武侠",
+    "都市异能",
+    "悬疑推理",
+    "法医刑侦",
+    "历史穿越"
+  ],
+  "files": {
+    "main": "SKILL.md",
+    "readme": "README.md",
+    "script": "scripts/team-orchestrator.py",
+    "install": "install.sh",
+    "config": "config.json",
+    "requirements": "requirements.txt"
+  },
+  "dependencies": {
+    "python": ">=3.7",
+    "asyncio": ">=3.4.3"
+  },
+  "installation": {
+    "method": "bash install.sh",
+    "target_dir": "~/.stepclaw/skills/tianya-gods-team",
+    "symlink": "~/.stepclaw/workspace/.agents/skills/tianya-gods-team"
+  },
+  "usage": {
+    "trigger": "「启动天涯智囊团」+ 问题",
+    "cli": "tianya-gods '问题'",
+    "api": "from scripts.team_orchestrator import TianyaGodsTeam"
+  },
+  "output_format": "structured_report",
+  "features": [
+    "20位大神并行分析",
+    "智能协调者",
+    "综合决策",
+    "共识与分歧识别",
+    "风险提示",
+    "行动方案"
+  ]
+}
