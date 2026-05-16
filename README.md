@@ -42,55 +42,16 @@
 ## 📁 仓库文件结构
 ```bash
 awesome-ai-persona-skills/
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-├── DirectorAgents-1/                 # 导演多智能体
-│   ├── SKILL.md
-│   ├── references/
-│   │   ├── director-style.md
-│   │   └── shot-list.md
-│   └── assets/
-│       └── template.md
-├── EQ/                               # 情商/社交人格技能
-│   ├── SKILL.md
-│   ├── references/
-│   │   ├── emotion-map.md
-│   │   └── social-responses.md
-│   └── assets/
-│       └── reply-templates.md
-├── Novelists/                        # 作家/文风蒸馏（有多个子skill）
-│   ├── install.sh
-│   ├── liucixin-skill/
-│   │   ├── SKILL.md
-│   │   └── references/
-│   ├── yuhua-skill/
-│   │   ├── SKILL.md
-│   │   └── references/
-│   └── ...（其他作家skill）
-├── tianya-gods-framework/           # 天涯大神思维框架
-│   ├── SKILL.md
-│   ├── references/
-│   │   ├── business-logic.md
-│   │   └── strategy-models.md
-│   └── assets/
-│       └── thinking-template.md
-├── zimeiti/                          # 自媒体大V技能（多个大V skill）
-│   ├── install.sh
-│   ├── qiuzhi2046-skill/            # 秋芝
-│   │   ├── SKILL.md
-│   │   └── references/
-│   ├── shuzishengmingkazike-skill/ # 卡兹克
-│   │   ├── SKILL.md
-│   │   └── references/
-│   ├── saiwenqiaoyi-skill/          # 赛文乔伊
-│   │   ├── SKILL.md
-│   │   └── references/
-│   └── ...（其他自媒体大V skill）
-├── LICENSE
-├── README.md
-├── persona-skills.md
-└── 赛博蒸馏Skill实操指南.pdf
+├── DirectorAgents-1/        # 文件夹📁：著名导演多智能体系统（DirectorAgents）
+├── EQ/                      # 文件夹📁：EQ情商与社会化训练Skill、指导文档
+├── Novelists/               # 文件夹📁：独家原创·作家小说家人格蒸馏技能库
+├── tianya-gods-framework/   # 文件夹📁：多Agent智囊团·天涯20大神框架
+├── zimeiti/                 # 文件夹📁：自媒体大V人格蒸馏Skill库
+├── Gemini_Generated_Image_gaz0fggaz0fggaz0.png  # 项目配图
+├── LICENSE                  # MIT开源协议
+├── README.md                # 仓库说明与项目主页
+├── persona-skills.md        # 全网AI人格技能总合集（原赛博人格skills.md）
+└── 赛博蒸馏Skill实操指南.pdf  # Skill蒸馏实操手册
 ```
 
 ---
