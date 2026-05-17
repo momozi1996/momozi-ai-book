@@ -38,6 +38,10 @@
 </p>
 
 ---
+<img width="941" height="1672" alt="ChatGPT Image 2026年5月17日 00_11_08" src="https://github.com/user-attachments/assets/2673a0e0-d0fa-40aa-9084-e18beaa5623a" />
+
+---
+
 
 ## 📁 仓库文件结构
 ```bash
@@ -61,7 +65,7 @@ awesome-ai-persona-skills/
 > 以文豪文风为内核，延续文字浪漫。
 
 一边是**百种人格，适配万千场景**，
-一边是**作家灵魂，定格文字永恒**。
+一边是**文人灵魂，定格文字永恒**。
 
 ---
 
