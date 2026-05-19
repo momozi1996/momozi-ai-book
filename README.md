@@ -74,8 +74,8 @@ awesome-ai-persona-skills/
 
 ---
 
-
 ## ✨ 仓库核心内容
+
 ### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
 👉 [赛博人格skills.md](./赛博人格skills.md)
 
@@ -168,10 +168,14 @@ awesome-ai-persona-skills/
 |🤔EQ训练🤔|[EQ.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/SKILL.md)|[EQ训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/EQ%E6%83%85%E5%95%86%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)|<img width="520" height="608" alt="20260510-214834" src="https://github.com/user-attachments/assets/2f7c2de1-931e-481f-a59f-09d773bc9c0e" />|
 |💡社会化训练💡|[社会化训练.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/sel-social-emotional-learning-skill/SKILL.md)|[EQ训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/EQ%E6%83%85%E5%95%86%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)|<img width="520" height="608" alt="20260510-214834" src="https://github.com/user-attachments/assets/2f7c2de1-931e-481f-a59f-09d773bc9c0e" />|
 
+---
+## ✨ **前端试用skill方式（感谢 @shesl-tinkerland 社区贡献🎉）**
+<img width="1112" height="396" alt="image" src="https://github.com/user-attachments/assets/9a1ce1c4-6861-4397-8adb-31b35fa17fc0" />
 
-
+https://socialistic.ai/zh/skill/awesome-ai-persona-skills-861cfd?utm_source=github&utm_medium=issue&utm_campaign=20260519-xhs-skill-feedback-creators-v2&utm_content=hyperlink
 
 ---
+
 
 > 收集百相人格，蒸馏文豪灵魂，
 > 让AI 不止会对话，更拥有风格与思想。
