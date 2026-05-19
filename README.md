@@ -38,6 +38,11 @@
 </p>
 
 ---
+
+https://github.com/user-attachments/assets/61bac71f-e572-4cb8-b967-023df5b982b8
+
+---
+
 <img width="941" height="1672" alt="ChatGPT Image 2026年5月17日 00_11_08" src="https://github.com/user-attachments/assets/2673a0e0-d0fa-40aa-9084-e18beaa5623a" />
 
 ---
@@ -68,6 +73,7 @@ awesome-ai-persona-skills/
 一边是**文人灵魂，定格文字永恒**。
 
 ---
+
 
 ## ✨ 仓库核心内容
 ### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
